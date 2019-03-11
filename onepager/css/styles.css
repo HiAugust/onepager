@@ -1,0 +1,86 @@
+/* external CSS Style */
+body {
+	background-color: #ffffff;
+	margin: 0px 0px;
+}
+
+div {
+	word-wrap: break-word;
+	background-color: #ffffff;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 54px;
+	padding: 25px 25px;
+}
+
+/* This stylesheet sets the width of all images to 100%: */
+img {
+	display: block;
+	width: 100%;
+	border: 0;
+}
+
+ul {
+	display: block;
+  	margin-left: 25px;
+  	margin-right: 0;
+  	padding-left: 0;
+}
+
+header {
+	background-color: #ffffff;
+	padding: 25px
+}
+
+p {
+	color: #000000;
+}
+
+p.content1 {
+	font-family: Arial;
+	font-size: 22px;
+	text-align: left;
+}
+
+p.content2 {
+	font-family: Arial;
+	font-size: 14px;
+	vertical-align: middle;
+	margin-top: 0;
+}
+
+p.content3 {
+	font-family: Arial;
+	font-size: 14px;
+	vertical-align: middle;
+}
+
+h1#About {
+	font-family: Helvetica: Arial: sans-serif;
+	font-size: 64px; 
+	color: #ffffff; 
+	text-align: center;
+}
+
+.hdrBlg h2 {
+	font-family: Helvetica: Arial: sans-serif;
+	font-size: 36px;
+	color: #ffffff
+	text-align:left;
+}
+
+.hdrSrv h2 {
+	font-family: Helvetica: Arial: sans-serif;
+	font-size: 36px;
+	color: #ffffff;
+	text-align: left;
+}
+
+.hdrCon h2 {
+	font-family: Helvetica: Arial: sans-serif;
+	font-size: 36px;
+	color:#ffffff;
+	text-align: left;
+}
+
