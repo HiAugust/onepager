@@ -1,0 +1,42 @@
+body {
+	font-family: "Helvetica Neue",Arial,sans-serif;
+	font-size: 1rem;
+	word-wrap: break-word;
+	overflow-wrap: break-word;
+}
+h1, h2, h3 {
+	margin: 0;
+	padding: 0;
+}
+p {
+	color: #000;
+}
+img {
+	display: block;
+}
+a {
+	text-decoration-style: none;
+}
+
+address {
+	font-style: normal;
+}
+.clear {
+	overflow: auto;
+}
+.content {
+	/* top right bottom left*/
+	/* top right / bottom left*/
+	margin: 0 25px;
+}
+.container p {
+	color: #000
+	font-size 14px
+}
+/* Style for Nav Bar */
+#nav {
+	display: block;
+	position: relative;
+	margin-bottom: 40px;
+	color: #373a3c;
+}
